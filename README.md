@@ -20,6 +20,6 @@ I'm a Full Stack Developer Student at 4GeeksAcademy, I'm about to graduate from 
 
 - 🔭 I’m currently working on My Portfolio 
 - 🌱 I’m currently learning React (Context Api's) 
-- 📫 How to reach me:
-- cesareuseche@gmail.com 
+- 📫 <h4>How to reach me</h4>:
+- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> cesareuseche@gmail.com 
 - <img href="https://www.linkedin.com/in/cesar-useche-profile/" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
