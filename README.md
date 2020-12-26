@@ -17,8 +17,3 @@ I'm a Full Stack Developer Student at 4GeeksAcademy, I'm about to graduate from 
 - 🔭 I’m currently working on My Portfolio 
 - 🌱 I’m currently learning React (Context Api's) 
 - 📫 How to reach me: cesareuseche@gmail.com or just send me a DM  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/cesareuseche)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/cesareuseche)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/cesar-useche-profile//)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
