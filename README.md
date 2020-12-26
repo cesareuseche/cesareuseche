@@ -22,3 +22,4 @@ I'm a Full Stack Developer Student at 4GeeksAcademy, I'm about to graduate from 
 - 🌱 I’m currently learning React (Context Api's) 
 - 📫 How to reach me:
 - cesareuseche@gmail.com 
+- ![LINKEDIN URL](https://img.shields.io/twitter/url?color=%230e76a8&label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcesar-useche-profile%2F)
