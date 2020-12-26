@@ -1,7 +1,7 @@
 <h1><a id="user-content-hello-folks-" class="anchor" aria-hidden="true" href="#hello-folks-"></a>Hey There, I'm Cesar Useche <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a></h1>
-<h4>I am a Full Stack Developer Student at 4GeeksAcademy Bootcamp and currently a Junior Web Developer</h4>
+<h4>I am a Full Stack Developer Student at 4GeeksAcademy Bootcamp and currently a Junior Front End Developer</h4>
 I'm a Full Stack Developer Student at 4GeeksAcademy, I'm about to graduate from the Full Stack Bootcamp in 2 months, I have 1 year of experience as a Junior Front End Developer at Bridge Patient Portal & Medical Web Experts.
-<h4>💻 I code with</h4>
+<h4>💻 I code with:</h4>
 <p>
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>		
  <img src= 'https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' />
