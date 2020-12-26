@@ -1,4 +1,4 @@
-### Hi there 👋, Cesar Useche
+### Hi there 👋, I'm Cesar Useche
 #### I am a Full Stack Developer Student at 4GeeksAcademy Bootcamp and currently a Junior Web Developer
 I'm a Full Stack Developer Student at 4GeeksAcademy, I'm about to graduate from the Full Stack Bootcamp in 2 months, I have 1 year of experience as a Junior Front End Developer at Bridge Patient Portal & Medical Web Experts.
 <h4>I code with</h4>
