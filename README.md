@@ -3,7 +3,7 @@
 I'm a Full Stack Developer Student at 4GeeksAcademy, I'm about to graduate from the Full Stack Bootcamp in 2 months, I have 1 year of experience as a Junior Front End Developer at Bridge Patient Portal & Medical Web Experts.
 <h4>I code with</h4>
 <p>
- <img src= 'https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF' />
+ <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>		
  <img src= 'https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' />
  <img src= 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
