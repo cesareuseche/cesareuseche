@@ -15,7 +15,6 @@ I'm a Full Stack Developer Student at 4GeeksAcademy, I'm about to graduate from 
  <img src= 'https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white' />
  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
- <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 - 🔭 I’m currently working on My Portfolio 
@@ -25,5 +24,7 @@ I'm a Full Stack Developer Student at 4GeeksAcademy, I'm about to graduate from 
 - cesareuseche@gmail.com 
 <p>
 <a href="https://www.linkedin.com/in/cesar-useche-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cesar-useche">
+ <a href="https://github.com/cesareuseche" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="cesar-useche">
 </a>
+<a href="https://dev.to/cesareuseche" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="cesar-useche">
 </p>
