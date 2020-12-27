@@ -18,10 +18,12 @@ I'm a Full Stack Developer Student at 4GeeksAcademy, I'm about to graduate from 
 </p>
 
 - 🔭 I’m currently working on My Portfolio 
-- 🌱 I’m currently learning React (Context Api's) 
+- 🌱 I’m currently learning React (Context Apis) 
 
 <h4>📫 How to reach me:</h4>
-- cesareuseche@gmail.com 
+
+- cesareuseche@gmail.com
+
 <p>
 <a href="https://www.linkedin.com/in/cesar-useche-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cesar-useche">
  <a href="https://github.com/cesareuseche" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="cesar-useche">
