@@ -23,7 +23,7 @@ I'm a Full Stack Developer Student at 4GeeksAcademy, I'm about to graduate from 
 
 <h4>📫 How to reach me:</h4>
 
-- cesareuseche@gmail.com
+- cesarudevs@gmail.com
 
 <p>
 <a href="https://www.linkedin.com/in/cesar-useche-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cesar-useche">
