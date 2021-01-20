@@ -19,7 +19,7 @@ I'm a Full Stack Developer Student at 4GeeksAcademy, I'm about to graduate from 
 </p>
 
 - 🔭 I’m currently working on My Portfolio 
-- 🌱 I’m currently learning React (Context Apis) 
+- 🌱 I’m currently learning SQL & Flask 
 
 <h4>📫 How to reach me:</h4>
 
