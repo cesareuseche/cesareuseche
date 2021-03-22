@@ -20,7 +20,6 @@ I'm a Full Stack Developer, I have 1 year and 6 months of experience as a Junior
 
 - 🔭 I’m currently working on Full Video Chat App
 - 🌱 I’m currently learning MySQL, WebRTC & Vue 
-- 
 
 <h4>📫 How to reach me:</h4>
 
