@@ -1,6 +1,6 @@
 <h1><a id="user-content-hello-folks-" class="anchor" aria-hidden="true" href="#hello-folks-"></a>Hey There, I'm Cesar Useche <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a></h1>
 <h4> Junior Full Stack Developer </h4>
-I'm a Full Stack Developer, I have 1 year and 8 months of experience as a Junior Full Stack Developer at Bridge Patient Portal & Medical Web Experts.
+I'm a Full Stack Developer, I have 1 year and 9 months of experience as a Junior Full Stack Developer at Bridge Patient Portal & Medical Web Experts.
 <h4>💻 I code with:</h4>
 <p>
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>		
