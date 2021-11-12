@@ -22,7 +22,7 @@ I'm a Full Stack Developer, I have 2 years of experience as a Junior Full Stack 
 </p>
 
 - 🔭 I’m currently working on Full Video Chat App
-- 🌱 I’m currently learning WebRTC & Gatsby
+- 🌱 I’m currently learning NodeJS
 
 <h4>📫 How to reach me:</h4>
 
